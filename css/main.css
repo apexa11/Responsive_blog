@@ -13,9 +13,8 @@ I've left some boilerplate below for you.
 */
 
 body {
-
 margin: 2em;
-
+font-family: sans-serif;
 }
 
 article {
@@ -31,11 +30,10 @@ h1 {
 
 img {
     max-width: 100%;
-
 }
+
 figure{
-
-
+    margin: 16px 40px;
 }
 
 
