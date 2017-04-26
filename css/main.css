@@ -34,7 +34,7 @@ p {
     text-decoration: none;
     color: black;
     text-shadow: 3px 3px 3px #aaa;
-    width: 2em;
+    margin: 3px;
 }
 footer {
     max-width: 800px;
