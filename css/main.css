@@ -1,16 +1,4 @@
-/*
 
-Your styles go here!
-
-Hint! You'll probably want to start by styling:
-  * <body>
-  * <article>
-  * <h1>
-  * <img>
-
-I've left some boilerplate below for you.
-
-*/
 
 body {
 margin: 2em;
@@ -20,21 +8,48 @@ font-family: sans-serif;
 article {
     margin: 0 auto;
     max-width: 50em;
+    border-bottom: 1px solid #ddd;
 }
 
 h1 {
     margin: 0 auto 1em auto;
     width: 800px;
-
+    color: red;
 }
 
 img {
     max-width: 100%;
 }
-
-figure{
-    margin: 16px 40px;
+h2{
+  color: red;
+  margin: 15px 0;
 }
+figcaption{
+  color: red;
+  padding: 1em 0;
+
+}
+p{
+  margin: 10px 0;
+}
+
+/* zocial */
+[class*="zocial-"]:before {
+  display: inline;
+  font-family: 'zocial', sans-serif;
+  margin: 5px;
+}
+li{
+  list-style-type: none;
+  margin: 2px 30px;
+}
+ul{
+  display: flex;
+  margin: 5px 250px;
+  padding: 10px;
+
+}
+
 
 
 
