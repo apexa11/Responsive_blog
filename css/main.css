@@ -7,7 +7,7 @@ body {
   margin: 3vh 0 3vh 0;
   text-align: center;
 
-    /*background-color: black;*/
+    background-color: black;
     font-family: 'Roboto', sans-serif;
 
 }
@@ -30,7 +30,7 @@ h1 {
 
     font-size: 6vw;
     font-weight: 500;
-    color: #444;
+    color: #BBC4C2;
 }
 #banner img{
 
@@ -57,11 +57,11 @@ figcaption {
     padding: 1em 0;
 }
 p {
-    color: #444;
+    color:  #BBC4C2;
   font-size: 1em;
   font-weight: 300;
   line-height: 1.6em;
-  margin: 0 auto 1em auto;
+  margin: 40px;
   text-align: justify
 
 }
